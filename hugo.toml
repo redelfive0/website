@@ -8,3 +8,5 @@ theme = 'paper'
   color = 'wheat'
   github = 'redelfive0'
   rss = true
+  name = 'Red Earth'
+  bio = 'Just for fun'
