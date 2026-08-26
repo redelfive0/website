@@ -4,6 +4,11 @@ locale = 'en-us'
 title = 'Red Earth'
 theme = 'paper'
 
+[menu]
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about/"
+
 [params]
   color = 'wheat'
   github = 'redelfive0'
