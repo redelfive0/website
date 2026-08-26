@@ -1,0 +1,5 @@
+baseURL = '/'
+relativeURLs = true
+locale = 'en-us'
+title = 'Red Earth'
+theme = 'paper'
