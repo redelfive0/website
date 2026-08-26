@@ -3,3 +3,8 @@ relativeURLs = true
 locale = 'en-us'
 title = 'Red Earth'
 theme = 'paper'
+
+[params]
+  color = 'wheat'
+  github = 'redelfive0'
+  rss = true
