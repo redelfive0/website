@@ -35,7 +35,7 @@ WireGuard Listen Port:
 
 - Status: 🟢 Open Peering
 - WireGuard Public Key: `yg3fHatQenIR+cXaRhGgTYz1wL2zdESWqdqYa39Znmo=`
-- Endpoint: `hk1.dn42.50335033.xyz:<last 4 digits of your ASN>`
+- Endpoint: `hk1.dn42.50335033.xyz:2<last 4 digits of your ASN>`
 - IPv6 link-local: `fe80::83/64`
 - dn42 IPv4: `172.21.123.131`
 - dn42 IPv6: `fd49:9166:6633:3::1`
@@ -46,7 +46,7 @@ WireGuard Listen Port:
 
 - Status: 🟢 Open Peering
 - WireGuard Public Key: `05+qXR2JTCUmx47DJzJ8svQ+tu9MIhsEUv4WDSTDYmQ=`
-- Endpoint: `sg1.dn42.50335033.xyz:<last 4 digits of your ASN>`
+- Endpoint: `sg1.dn42.50335033.xyz:2<last 4 digits of your ASN>`
 - IPv6 link-local: `fe80::83/64`
 - dn42 IPv4: `172.21.123.129`
 - dn42 IPv6: `fd49:9166:6633:1::1`
