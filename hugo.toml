@@ -6,8 +6,14 @@ theme = 'paper'
 
 [menu]
   [[menu.main]]
+    name = "dn42"
+    pageRef = "/dn42"
+    weight = 10
+
+  [[menu.main]]
     name = "About"
-    pageRef = "/about/"
+    pageRef = "/about"
+    weight = 20
 
 [params]
   color = 'wheat'
