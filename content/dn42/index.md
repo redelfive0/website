@@ -15,7 +15,7 @@ REDEARTH-NETWORK ([AS4242420083](https://explorer.burble.com/#/4242420083)) is a
 
 ### Peering
 
-Please send the following information by email to `redearth@50335033.xyz`.
+Please send the following information by email to [redearth@50335033.xyz](mailto:redearth@50335033.xyz).
 
 **I only accept peering requests that use MP-BGP and Extended Next Hop.**
 
