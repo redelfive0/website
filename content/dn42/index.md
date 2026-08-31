@@ -57,7 +57,7 @@ WireGuard Listen Port:
 
 - Status: 🔒 Invitation Only
 - WireGuard Public Key: `hOdL0+dZtk69Eoa6be/UqC0gwC3JQuLKmdnA7IHM/Xo=`
-- Endpoint: None
+- Endpoint: `us1-dn42-redearth.duckdns.org`
 - dn42 IPv4: `172.21.123.130`
 - dn42 IPv6: `fd49:9166:6633:2::1`
 - WireGuard Tunnel MTU: `1380`
